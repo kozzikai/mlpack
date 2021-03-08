@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 8CB2-AD79
+
+ Directory of C:\Users\aishw\Desktop\New folder
+
+08-03-2021  12:20    <DIR>          .
+08-03-2021  12:20    <DIR>          ..
+08-03-2021  12:20                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  387,332,067,328 bytes free
